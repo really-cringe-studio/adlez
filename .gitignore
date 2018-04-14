@@ -3,3 +3,5 @@ bin
 obj
 x64
 x86
+.idea
+.DS_Store
